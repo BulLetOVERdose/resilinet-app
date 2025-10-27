@@ -1,4 +1,4 @@
-# resilinet-app
+# Resilinet-app
 Community resilience and local alerts app built with React Native + Firebase
 # ResiliNet Starter (Expo + Firebase)
 
