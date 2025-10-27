@@ -1,1 +1,3 @@
-
+/images               → original screenshots (home_feed.png, map_screen.png, etc.)
+/overlays.txt         → text overlays for each image
+/instructions.txt     → step-by-step guide for applying overlays
